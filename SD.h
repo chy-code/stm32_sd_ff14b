@@ -67,10 +67,6 @@ typedef struct
 #define SD_CSD_STRUCT_V1	0x0
 #define SD_CSD_STRUCT_V2 	0x1
 
-#define SD_CCC_CLASS0       1
-#define SD_CCC_CLASS1       2
-#define SD_CCC_CLASS2       4
-#define SD_CCC_CLASS3       8
 
 /**
   * SD卡CSD寄存器
